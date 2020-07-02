@@ -1,0 +1,15 @@
+{
+  "name": "itch.io-bundle-to-library",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Quintus Cardozo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-core": "^4.0.1"
+  }
+}
